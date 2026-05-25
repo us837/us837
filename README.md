@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# 👋 Hi, I'm Ujwal Sharma  
+## Hi, I'm Ujwal Sharma there 👋
 
 📧 Email: ujwalsharma837@gmail.com  
 🔗 Portfolio: [GitHub](https://github.com/us837)  
@@ -99,5 +96,3 @@ Beyond writing and content, I’m passionate about **football**, an **adventurou
 ---
 
 ✨ *Always exploring the intersection of technical writing, AI automation, and content engineering to build scalable, user-focused documentation.*  
-
--->
