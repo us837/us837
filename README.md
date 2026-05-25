@@ -13,7 +13,7 @@ Versatile and data-driven **Technical Writer & Content Developer** with 4+ years
 I’m Ujwal Sharma — a curious mind with a deep interest in **mathematics, cosmology, science, and philosophy**. I love exploring big ideas and breaking them down so simply that even a 5-year-old could grasp them.  
 
 - ✍️ If you’d like to dive into my perspectives on science and philosophy, follow me on [Substack](https://substack.com/@ujwalsharma).  
-- 🎬 For recommendations on movies, songs, books, research papers, and documentaries, connect with me on **X**.  
+- 🎬 For recommendations on movies, songs, books, research papers, and documentaries, connect with me on [X](https://x.com/UjwalSharma_Ji).
 - 📖 I share knowledge in the most accessible way possible on [Medium](https://medium.com).  
 - 🚀 Currently trying to understand quantam physics.
 
