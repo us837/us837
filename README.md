@@ -7,7 +7,7 @@
 
 ## 🚀 Professional Summary   
 
-Versatile Web Developer & Technical Writer with 2+ years of experience building scalable web solutions and 4+ years of expertise in crafting clear, user-focused documentation. Skilled in Vue.js, Python, WordPress, and automation, alongside authoring API guides, BRDs, and SEO-driven content. Adept at bridging the gap between technical execution and communication, ensuring both robust systems and accessible knowledge bases.
+Versatile software Developer with 2+ years of experience building scalable web solutions and 4+ years of expertise in developing product and building growth. Skilled in HTML, CSS, Javascript, Python, WordPress, and automation, alongside authoring API guides, BRDs, and SEO-driven content. Adept at bridging the gap between technical execution and communication, ensuring both robust systems and accessible knowledge bases.
 
 ## 🌌 About Me  
 
