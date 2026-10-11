@@ -1,3 +1,5 @@
+![Profile banner](assets/profile-banner.jpeg)
+
 ## Hi, I'm Ujwal Sharma, Hope you are doing great 👋
 
 📧 Email: spectrolink@gmail.com   
