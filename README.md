@@ -76,15 +76,24 @@
 - **Documentation:** Technical Docs, PRD, BRD, User Guides, Whitepapers, Knowledge Bases, Schema Design (JSON-LD, XML)  
 - **Additional:** Jira, Notion, GitBook, Terminal, CLI Agents
 
-# 📜 Certifications  
+# 📜 Certifications
 
-- Python Beginners (Kaggle)
-- Creating API Documentation
-- Google Analytics 4  
-- Google Ads Display
-- Google Ads Beginners
-- SEO Certificate   
-- Content Marketing Principles
-- Generative AI Skills for Content Creation
+<table>
+  <tr>
+    <td align="center"><img src="assets/certificates/seo-professional.png" alt="SEO Certificate" width="250"><br>SEO Certificate</td>
+    <td align="center"><img src="assets/certificates/google-analytics.png" alt="Google Analytics 4 Certificate" width="250"><br>Google Analytics 4</td>
+    <td align="center"><img src="assets/certificates/api-documentation.png" alt="Creating API Documentation Certificate" width="250"><br>Creating API Documentation</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/certificates/content-marketing.png" alt="Content Marketing Certificate" width="250"><br>Content Marketing Principles</td>
+    <td align="center"><img src="assets/certificates/google-ads.png" alt="Google Ads Beginners Certificate" width="250"><br>Google Ads Beginners</td>
+    <td align="center"><img src="assets/certificates/google-ads-display.png" alt="Google Ads Display Certificate" width="250"><br>Google Ads Display</td>
+  </tr>
+  <tr>
+    <td align="center">Python Beginners (Kaggle)</td>
+    <td align="center">Generative AI Skills for Content Creation</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
 
-✨ *Connect with me to develop Applications, AI automation, Technical Documentation and content engineering to build scalable, user-focused products.*  
+✨ *Connect with me to develop Applications, AI automation, Technical Documentation and content engineering to build scalable, user-focused products.*
