@@ -4,6 +4,32 @@
 
 ---
 
+# 🛠️ Technical Skills
+
+**Languages**
+
+![JavaScript, Python, HTML, and CSS](https://skillicons.dev/icons?i=js,python,html,css)
+
+**Frameworks & Libraries**
+
+![Vue.js, Next.js, Tailwind CSS, React, and Express.js](https://skillicons.dev/icons?i=vue,nextjs,tailwind,react,express)
+
+**Platforms & Tools**
+
+![WordPress, Google Cloud, GitHub Actions, Docker, Git, and GitHub](https://skillicons.dev/icons?i=wordpress,gcp,githubactions,docker,git,github)
+
+**CMS:** Framer, Shopify, HubSpot, Wix
+
+**Analytics:** GA4, Google Search Console, Microsoft Clarity, Metabase, ClickHouse
+
+**Marketing & SEO:** SEMrush, Ahrefs, Sendy, Mautic, Meta Business Suite, Zoho Workspace
+
+**Documentation:** Technical Docs, PRD, BRD, User Guides, Whitepapers, Knowledge Bases, Schema Design (JSON-LD, XML)
+
+**Additional:** Coolify, Unleash, Jira, Notion, GitBook, Terminal, CLI Agents
+
+---
+
 # Experience
 
 ### **VeeFly Global Tech** | Software Developer - 1  
@@ -63,18 +89,6 @@
 - **B.Sc in Mathematics, Physics & Electronics** | *Graduated 2020* – Hislop College, RTMNU University, Nagpur (First Division, 62%) 
 
 ---
-
-# 🛠️ Technical Skills
-
-- **Languages:** JavaScript, Python, HTML, CSS  
-- **Frameworks & Library:** Frontend (Vue.js, Next.js, Tailwind & React) | Backend (Express.js)  
-- **CMS:** WordPress, Framer, Shopify, HubSpot, Wix  
-- **Analytics:** GA4, Google Search Console, Microsoft Clarity, Metabase, Clickhouse  
-- **Deploys:** GitHub Actions, Docker  
-- **Marketing & SEO Tech:** SEMrush, Ahrefs, Sendy, Mautic, Meta Business Suite, Zoho Workspace  
-- **Platforms:** Google Cloud Console, GitHub, Git, Docker Desktop, Coolify, Unleash  
-- **Documentation:** Technical Docs, PRD, BRD, User Guides, Whitepapers, Knowledge Bases, Schema Design (JSON-LD, XML)  
-- **Additional:** Jira, Notion, GitBook, Terminal, CLI Agents
 
 # 📜 Certifications
 
