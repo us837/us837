@@ -90,8 +90,8 @@
     <td align="center"><img src="assets/certificates/google-ads-display.png" alt="Google Ads Display Certificate" width="250"><br>Google Ads Display</td>
   </tr>
   <tr>
-    <td align="center">Python Beginners (Kaggle)</td>
-    <td align="center">Generative AI Skills for Content Creation</td>
+    <td align="center"><img src="assets/certificates/python-beginners.png" alt="Python Beginners Certificate" width="250"><br>Python Beginners (Kaggle)</td>
+    <td align="center"><img src="assets/certificates/generative-ai-content.png" alt="Generative AI Skills for Content Creation Certificate" width="250"><br>Generative AI Skills for Content Creation</td>
     <td>&nbsp;</td>
   </tr>
 </table>
